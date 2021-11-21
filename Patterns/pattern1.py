@@ -1,5 +1,5 @@
 # Pattern 1 :
-# Triangular Pyramid 
+#  Right Angle Triangle  
 
 # * 
 # * *
